@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @muhwaqash
+- 👀 I’m interested in coding mostly in Python, SQL, Tableau
+- 🌱 I’m currently completing a certificate at Ryerson, toronto in computer coding.
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me ...
+
+<!---
+muhwaqash/muhwaqash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhwaqash
-- 👀 I’m interested in coding mostly in Python, SQL, Tableau
+- 👀 I’m interested in coding mostly in Python, SQL and visualize it using Tableau
 - 🌱 I’m currently completing a certificate at Ryerson, toronto in computer coding.
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me ...
